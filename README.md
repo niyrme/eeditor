@@ -1,0 +1,3 @@
+# Eeditor
+
+A text editor.
